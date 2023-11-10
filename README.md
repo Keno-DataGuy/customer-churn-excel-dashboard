@@ -31,6 +31,7 @@ The dashboard identifies key trends and patterns in customer churn, which can be
 - Visually appealing
 
 To view more information about a particular segment of the data, simply click on the corresponding bar or slice in the chart. 
-  ![dashboard filters](filters.jpg)
+  
+![dashboard filters](filters.jpg)
 
 You can also use the filters at the top of the dashboard to filter the data by geography, age group, card type, tenure, and average balance.
