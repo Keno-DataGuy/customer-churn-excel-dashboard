@@ -13,15 +13,15 @@ The dashboard identifies key trends and patterns in customer churn, which can be
   
 - Customers between the ages of 40 and 50 are the most likely to churn.
 
-![Chart 2](img4.jpg)
+  ![Chart 2](img4.jpg)
   
 - Customers with the shortest tenure (0-4 years) are the most likely to churn.
 
-![Chart 4](img3.jpg)
+  ![Chart 4](img3.jpg)
   
 - Churned customers have a lower average balance than retained customers.
 
-![Chart 5](img2.jpg)
+  ![Chart 5](img2.jpg)
   
 ### Benefits of this dashboard:
 - Identifies key trends and patterns in customer churn
