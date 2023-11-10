@@ -5,7 +5,8 @@
 In this project, I have started off by cleaning and ensuring that the data is of optimal quality to carry out analysis and obtain insights utilizing pivot tables and creating a dashboard.
 This dashboard provides an overview of customer churn data for a bank. The data is segmented by geography, age group, card type, tenure, and average balance. 
 The dashboard identifies key trends and patterns in customer churn, which can be used to improve customer satisfaction and retention.
-  ![excel dashboards](excel_dashboard.jpg)
+
+![excel dashboards](excel_dashboard.jpg)
 
 ### Key insights:
 - Customers in France are the most likely to churn, followed by those in Germany and Spain.
