@@ -9,7 +9,8 @@ The dashboard identifies key trends and patterns in customer churn, which can be
 
 ### Key insights:
 - Customers in France are the most likely to churn, followed by those in Germany and Spain.
-![Chart 1](img1.jpg)
+
+  ![Chart 1](img1.jpg)
   
 - Customers between the ages of 40 and 50 are the most likely to churn.
 
@@ -30,6 +31,6 @@ The dashboard identifies key trends and patterns in customer churn, which can be
 - Visually appealing
 
 To view more information about a particular segment of the data, simply click on the corresponding bar or slice in the chart. 
-![dashboard filters](filters.jpg)
+  ![dashboard filters](filters.jpg)
 
 You can also use the filters at the top of the dashboard to filter the data by geography, age group, card type, tenure, and average balance.
